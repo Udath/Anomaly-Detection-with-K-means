@@ -18,11 +18,9 @@ Algorithm
   
 5. Decide anomaly based on reconstruction error.
 
-
 Result Example 1
-![Result1]
-(./Figure_1.png)
+![Result1](./Figure_1.png)
 
 Result Example 2
 ![Result2](./Figure_2.png)
-"# Anomaly-Detection-with-K-means" 
+
