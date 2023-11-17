@@ -18,9 +18,10 @@ Algorithm
   
 5. Decide anomaly based on reconstruction error.
 
-Result Example 1
-![Result1](./Figure_1.png)
+#### Result Example 1
+![Result1](https://github.com/Udath/Anomaly-Detection-with-K-means/blob/main/Figure_1.png)
 
-Result Example 2
-![Result2](./Figure_2.png)
+
+#### Result Example 2
+![Result2](https://github.com/Udath/Anomaly-Detection-with-K-means/blob/main/Figure_2.png)
 
